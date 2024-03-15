@@ -10,7 +10,7 @@
 
 ### Tools
 
-![intellij][intellij] ![vscode][vscode] ![workbench][workbench]
+![intellij][intellij] ![vscode][vscode] ![workbench][workbench] ![eclipse][eclipse]
 
 ### Framework & Libraries
 
@@ -47,6 +47,7 @@
 [intellij]: https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white
 [vscode]: https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
 [workbench]: https://img.shields.io/badge/workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[Eclipse]: https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white
 
 [springboot]: https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
