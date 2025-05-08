@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flee02g29&count_bg=%234CFDFF&title_bg=%23061196&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ### Language (With Markup)
 
 ![Java][Java] ![JavaScript][JavaScript] ![CSS3][CSS3] ![HTML5][HTML5] ![Python][Python] ![TypeScript][TypeScript]
